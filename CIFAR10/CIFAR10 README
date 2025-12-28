@@ -1,1 +1,3 @@
 CIFAR-10 is used for simple image classification tasks. In "CIFAR-10 CNN MKI.ipynb" a simple minimum classifier is built. It is a simple proof of concept to run when compute constraints are heavy, rather than a thorough and well-optimized implementation.
+
+Reference: Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009. https://www.cs.toronto.edu/~kriz/cifar.html 
